@@ -1,4 +1,0 @@
-DataTable\License.nvs c3949f86034f6267017ce349461e5838e9b98ab3
-GameGuard.des e95681500272f89922a48da84de3eae8929225d8
-version.dll af026d8cc6fa6843a7e54f0cb212bbfd9df2ad07
-zip.dll 783075cad3fd0c0a07563dd577019ffbbce65068
