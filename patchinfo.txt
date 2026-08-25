@@ -1,4 +1,1 @@
-DataTable\License.nvs c237bbe1a7a0b25f790a74b78f4b8a402f7287a1
-GameGuard.des 734ac816ca40ec71d31ae40b619c644068a3133c
 Launcher.exe 83ab0f40f4c854c2c6231aa1b40129c61d3f6c75
-version.dll 3379e44c9b2350a85d9ca13791b2ddd6f92ceaa9
